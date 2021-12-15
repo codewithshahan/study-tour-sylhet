@@ -103,7 +103,7 @@ body {
       .heading-primary--main {
         letter-spacing: 1rem;
         margin-top: 5rem;
-        font-size: 5rem; } }
+        font-size: 7rem; } }
   .heading-primary--sub {
     display: block;
     font-size: 2rem;
@@ -113,8 +113,8 @@ body {
     animation: moveInRight 1s ease-out; }
     @media only screen and (max-width: 37.5em) {
       .heading-primary--sub {
-        letter-spacing: 1.2rem;
-        font-size: 1.5rem; } }
+        letter-spacing: 1rem;
+        font-size: 2.5rem; } }
 
 .heading-secondary {
   font-size: 3.5rem;
